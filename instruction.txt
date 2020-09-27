@@ -1,0 +1,6 @@
+INSTRUCTIONS:
+
+1. Make a gamepass
+2. Go get a tool and rename it to GamePassTool and put it in ServerStorage.
+3. Make a script in Workspace and type in the code (IN THE OTHER .LUA FILE)
+4. Change the gamepass ID to yours ("local GamepassID = ID HERE")
