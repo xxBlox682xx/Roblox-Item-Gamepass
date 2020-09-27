@@ -1,5 +1,5 @@
 local MarketPlaceService = game:GetService("MarketplaceService")
-local GamepassID = 10064849 -- The Gamepass ID
+local GamepassID = ID HERE
 
 game.Players.PlayerAdded:Connect(function(player)
  
